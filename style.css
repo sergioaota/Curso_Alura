@@ -14,8 +14,8 @@
     padding: 24px 0;
 }
 
-.cabecalho-imagem img {
-    max-width: 50px;
+.cabecalho-imagem {
+    max-width: 20%;
     width: auto;
 }
 
