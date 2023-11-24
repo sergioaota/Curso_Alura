@@ -42,10 +42,16 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 12px 0;
 }
 
 .rodape-imagem {
     height: 60px;
     width: auto;
+}
+.rodape-texto-item {
+    display: list-item;
+    margin: 0 16px;
+    font-size: 24px;
+    font: 1em sans-serif;
 }
