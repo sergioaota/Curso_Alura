@@ -43,7 +43,10 @@
     padding: 24px 0;
     }
 
-
+    .curso-imagem {
+        width: 25%;
+        padding: 12px 0;
+    }
 
 .projeto-titulo {
     text-align: center;
