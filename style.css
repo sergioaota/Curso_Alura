@@ -36,11 +36,16 @@
     padding: 50px 0;
 }
 
-.rodape  {
+.rodape {
     background-color: #00000000;
     color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
+}
+
+.rodape-imagem {
+    height: 60px;
+    width: auto;
 }
